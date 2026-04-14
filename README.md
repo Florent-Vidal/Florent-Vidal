@@ -18,4 +18,4 @@ En cours de formation avec l'organisme Centre Européen de Formation dans le but
 * tifosi : conception et modélisation de base de données (MySQL)
 
 ## Contact
-Me contacter via mon mail f.f@gmail.com.
+Me contacter via mon mail florentvidal02@gmail.com
