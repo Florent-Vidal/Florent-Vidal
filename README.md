@@ -1,16 +1,21 @@
 ## Hi there 👋
+# Florent Vidal
 
-<!--
-**Florent-Vidal/Florent-Vidal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Présentation 
 
-Here are some ideas to get you started:
+Je suis un Développeur Web Junior -- Full Stack -- vivant de ma nouvelle passion, l'écriture du Code et la compréhension du monde qui entoure celui-ci.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+En cours de formation avec l'organisme Centre Européen de Formation dans le but d'acquérir mon diplôme de Développeur Web et Web Mobile je suis actuellement à la recherche de Stage en entreprise.
+
+## Ma Stack
+* Front-End : HTML, CSS, JavaScript, React, TypeScript 
+* Back-End : Node.js, Sequelize, Express, MySQL 
+* Outils : Git/GitHub, VS Code, Figma 
+
+## Aperçu de mes projets 
+* trouve-ton-artisan : plateforme de recherche d'artisans en Auvergne-Rhône-Alpes (React, Node.js, MySQL, Sequelize, Express, TypeScript) 
+* port-plaisance-russell : API Rest pour la gestion des quais et réservation pour un port (MongoDB, Node.js) 
+* tifosi : conception et modélisation de base de données (MySQL)
+
+## Contact
+Me contacter via mon mail f.f@gmail.com.
