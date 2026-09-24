@@ -9,8 +9,8 @@ Certificat Développeur Web obtenue en septembre 2026, en préparation pour le T
 
 ## Ma Stack
 * Front-End : HTML, CSS, JavaScript, React 
-* Back-End : Node.js, Sequelize, Express, MySQL 
-* Outils : Git/GitHub, VS Code, Figma 
+* Back-End : Node.js, Sequelize, Express, MySQL, MongoDB
+* Outils : Git/GitHub, VS Code, Figma, Postman
 
 ## Aperçu de mes projets 
 ?
