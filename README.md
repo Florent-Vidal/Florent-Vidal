@@ -15,4 +15,4 @@ En cours de formation avec l'organisme Centre Européen de Formation dans le but
 ?
 
 ## Contact
-Me contacter via mon mail florentvidal02@gmail.com
+Me contacter via mon mail florentvidal.dev@gmail.com
