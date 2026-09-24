@@ -4,7 +4,8 @@
 
 Je suis un Développeur Web Junior -- Full Stack -- vivant de ma nouvelle passion, l'écriture du Code et la compréhension du monde qui entoure celui-ci.
 
-En cours de formation avec l'organisme Centre Européen de Formation dans le but d'acquérir mon diplôme de Développeur Web et Web Mobile je suis actuellement à la recherche de Stage en entreprise.
+Formation CEF Développeur Web et Web Mobile terminée. 
+Certificat Développeur Web obtenue en septembre 2026, en préparation pour le Titre Professionnel pour mai/juin 2027.
 
 ## Ma Stack
 * Front-End : HTML, CSS, JavaScript, React 
